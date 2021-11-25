@@ -1,0 +1,65 @@
+{
+    "token": "ODkwODQwNTE5MTI1NjMxMDI3.YU1p4g.PHCZW1_LI_6Tfu_2b0T1sQM5b0I", 
+    "prefix": "-",
+	  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9L",   
+    "ownerID": "491577179495333903",
+    "SpotifyID": "b794f71173fd430bb8f81f7d402f8a96",
+    "SpotifySecret": "25e49e6b12e242c794bba9fcb8acd5ee",
+    "mongourl": "mongodb+srv://Fanciermot:Fanciermot@bot.3j4b5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "embedColor": "#303236",
+    "logs": "890844919965569044",
+     "nodes": [
+    
+    {
+     
+      "host": "lava.link",
+      "port": 80,
+      "password": "BlackKnight683",
+      "identifier": "DisBotlist Lavalink",
+      "retryDelay": 3000,
+      "secure": true
+    
+    },
+    {
+"host": "disbotlistlavalink.ml",
+"password": "LAVA",
+"port": 443,
+"identifier": "lavalink 1",     
+"secure": true
+    },
+    {
+"host": "lavalink.gangasagarcom.repl.co",
+"password": "LAVA",
+"port": 443,
+"identifier": "lavalink 2",     
+"secure": true
+
+    },
+    {
+      "host": "lavalink-2.gangasagarcom.repl.co",
+"password": "LAVA",
+"port": 443,
+"identifier": "lavalink 3",     
+"secure": true
+
+     },
+     {
+      "host": "lavalink.brblacky1.repl.co",
+"password": "LAVA",
+"port": 443,
+"identifier": "lavalink 4",     
+"secure": true
+   },
+  
+   {
+  "host": "lavalink-repl.johngrosse.repl.co",
+  "port": 2333,
+  "password": "pass123",
+  "retryDelay": 3000,
+  "identifier": "lavalink 5",  
+  "secure": true
+   }
+   
+  ]
+}
+
